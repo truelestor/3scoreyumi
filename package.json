@@ -1,0 +1,18 @@
+{
+  "name": "3scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "3scorecheck.us ◄ Get Your FREE Credit Score 3scorecheck.us, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "3scorecheck.us",
+    "credit card for credit score 550",
+    "is a 690 credit score good",
+    "credit score without ssn",
+    "with a credit score of 700"
+  ],
+  "repository": "https://github.com/truelestor/3scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
